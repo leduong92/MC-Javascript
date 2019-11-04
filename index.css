@@ -1,0 +1,8 @@
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+canvas {
+    margin: 50px;
+}
